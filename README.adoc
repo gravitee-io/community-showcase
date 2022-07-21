@@ -1,15 +1,20 @@
 = Community contributions
+:toc:
+:toc-title:  Overview
+:toclevels: 2
 
-This page lists out the amazing contributions our community has made for the Gravitee API Management and Access Management ecosystem.
-
-If you'd like your contribution to appear here, please send a pull request to this repostory to add it.
-
-Please note that all listings here are community contributions, and as such are not officially supported by Gravitee.
+This page lists out the amazing contributions our community has made for the Gravitee API Management and Access Management ecosystem. If you'd like your contribution to appear here, please send a pull request to this repostory to add it.
 
 If you're looking to create something amazing for the Gravitee ecosystem and want to bounce ideas around, do reach out to the https://community.gravitee.io[community forum^].
 
-== Contents
+Please note that all listings here are community contributions, and as such are not officially supported by Gravitee.
 
-== Plugins
+== Tools
 
+[#tyk-to-gravitee]
+=== Tyk to Gravitee API tool
+
+*Description*
+
+A JavaScript-based tool for https://github.com/mtwomey/gravitee-tool[converting and importing APIs from Tyk to Gravitee^], created by https://github.com/mtwomey[Matthew Twomey^].
 
