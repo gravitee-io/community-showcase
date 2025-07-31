@@ -14,7 +14,11 @@ Please note that all listings here are community contributions, and as such are 
 [#tyk-to-gravitee]
 === Tyk to Gravitee API tool
 
-*Description*
-
 A JavaScript-based tool for https://github.com/mtwomey/gravitee-tool[converting and importing APIs from Tyk to Gravitee^], created by https://github.com/mtwomey[Matthew Twomey^].
 
+[#mcp-crewai]
+=== MCP-enabled Gravitee API with CrewAI agent
+
+A demo showing how to connect to an MCP server using Streamable HTTP Transport and use Gravitee MCP tools inside a CrewAI agent to perform real-world tasks like fetching weather data.
+
+*Tags:* `MCP`, `APIM`, `CrewAI`, `AI Agent`, `OpenAPI`
